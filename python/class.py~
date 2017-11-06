@@ -13,6 +13,8 @@ class Bag:
     def get(self):
         return self.data
         
+    def set(self,x)
+        
     def addtwice(self,x):
         self.add(x)
         self.add(x)
@@ -20,9 +22,6 @@ class Bag:
 x = Bag()
 
 x.add(1)
-
-
-
 
 print(x.get())
 

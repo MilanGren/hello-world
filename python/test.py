@@ -17,3 +17,11 @@ for i,item in enumerate(items):
   nove[i] = item
       
 print(nove)
+
+a = [1, 9, 8, 4]
+a = [elem*2+index for index,elem in enumerate(a)] 
+#b = a
+#b = [elem*2+index for index,elem in enumerate(li)] 
+
+
+print(a)
