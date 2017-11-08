@@ -1,0 +1,19 @@
+
+python3.5 get_pip.py
+python3.5 -m pip install --user numpy
+
+
+
+#
+Prerequisite:
+sudo apt-get install build-essential gfortran libatlas-base-dev python-pip python-dev
+sudo pip install --upgrade pip
+
+Actual packages:
+sudo pip install scipy
+sudo pip install numpy
+
+
+#
+sudo apt install python3-tk
+ 
